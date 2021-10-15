@@ -8,8 +8,6 @@ An Epic Seven arena/guild wars speed calculator bot for Discord
 
 ***Note:** this is more of a proof of concept than an actual utility, as there are significant issues that need to be fixed to get it to a properly usable state.*
 
-## Requirements
-
 ## Usage
 Install requirements from `requirements.txt`. Specify bot token in `config.py` and run `main.py`.
 
